@@ -1,0 +1,10 @@
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\bin\Debug\NovoProjetoValidaNotasForms.exe.config
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\bin\Debug\NovoProjetoValidaNotasForms.exe
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\bin\Debug\NovoProjetoValidaNotasForms.pdb
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.csprojResolveAssemblyReference.cache
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.frm_validaNot.resources
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.Properties.Resources.resources
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.csproj.GenerateResource.Cache
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.exe
+c:\users\joao.quadros\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.pdb
+C:\Users\JOAO.QUADROS\documents\visual studio 2015\Projects\NovoProjetoValidaNotasForms\NovoProjetoValidaNotasForms\obj\Debug\NovoProjetoValidaNotasForms.ExibeBoletim.resources
